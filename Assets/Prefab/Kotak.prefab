@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 684605392824127843}
   - component: {fileID: 684605392824127842}
   - component: {fileID: 684605392824127853}
+  - component: {fileID: 8099898615508828072}
   m_Layer: 0
   m_Name: Kotak
   m_TagString: Untagged
@@ -128,3 +129,16 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!114 &8099898615508828072
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 684605392824127852}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b3e4a4fc485418041837ffefafd26436, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Health: 1
